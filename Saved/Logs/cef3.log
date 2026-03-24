@@ -1,8 +1,15 @@
-[11984:30808:0324/172613.049:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[11984:30444:0324/172613.088:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[11984:30808:0324/172613.100:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[19596:4444:0324/172617.316:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DD6692A2CD0367F19A0BB7C99756253A will be ignored
-[14920:33508:0324/172618.152:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-72A4139606DC8D1466905E343BBCEAE5 will be ignored
-[11984:16880:0324/172620.046:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[11984:30808:0324/172621.344:ERROR:device_event_log_impl.cc(196)] [17:26:21.330] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[11984:30808:0324/173503.811:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[36220:26856:0324/190942.800:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[36220:33492:0324/190942.836:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[36220:26856:0324/190942.849:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[36220:6664:0324/190943.988:WARNING:leveldb_database.cc(141)] Unable to open C:\unreal projects\qqww\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\unreal projects\qqww\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36220:6664:0324/190943.991:WARNING:leveldb_database.cc(141)] Unable to open C:\unreal projects\qqww\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\unreal projects\qqww\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36220:6664:0324/190943.994:WARNING:leveldb_database.cc(141)] Unable to open C:\unreal projects\qqww\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\unreal projects\qqww\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36220:6664:0324/190943.996:WARNING:leveldb_database.cc(141)] Unable to open C:\unreal projects\qqww\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\unreal projects\qqww\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36220:6664:0324/190946.300:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[36220:6664:0324/190946.301:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18124:16040:0324/190946.683:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E4AB474D0BD2E754CEB94023A0CF5A15 will be ignored
+[22944:4336:0324/190947.588:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-B03B413E8E6AAF857CB1B3E7C00D22AD will be ignored
+[36220:15204:0324/190949.404:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[36220:26856:0324/190949.557:ERROR:device_event_log_impl.cc(196)] [19:09:49.541] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[36220:15204:0324/191236.501:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[36220:26856:0324/191247.244:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
