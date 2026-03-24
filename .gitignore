@@ -1,0 +1,65 @@
+# Unreal Engine 5
+
+# Binaries
+Binaries/
+Build/
+
+# Intermediate files
+Intermediate/
+DerivedDataCache/
+
+# Saved / logs / config user data
+Saved/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.sln
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Compiled source files
+*.pdb
+*.ilk
+
+# Xcode (macOS builds)
+*.xcworkspace
+*.xcodeproj
+
+# JetBrains Rider
+*.DotSettings.user
+
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Unreal Engine generated project files
+*.generated.h
+
+# Plugin binaries
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Shader cache
+ShaderCache/
+
+# Packaging output
+Packaged/
+Package/
+dist/
+
+# Crash reports
+CrashReportClient/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
